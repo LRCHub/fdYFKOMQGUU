@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "イケナイ太陽",
+  "base_artist": "ORANGE RANGE",
+  "createdAt": "2025-12-01T04:13:26.254965Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "イケナイ太陽",
+      "artist": "Orange Range",
+      "has_synced": true,
+      "path": "select/01_イケナイ太陽_Orange_Range.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "イケナイ太陽",
+      "artist": "ORANGE RANGE",
+      "has_synced": true,
+      "path": "select/02_イケナイ太陽_ORANGE_RANGE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "イケナイ太陽",
+      "artist": "ORANGE RANGE",
+      "has_synced": true,
+      "path": "select/03_イケナイ太陽_ORANGE_RANGE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "イケナイ太陽 〜Short Ver.〜",
+      "artist": "ORANGE RANGE",
+      "has_synced": true,
+      "path": "select/04_イケナイ太陽_〜Short_Ver.〜_ORANGE_RANGE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "イケナイ太陽 ~Short Version~",
+      "artist": "ORANGE RANGE",
+      "has_synced": false,
+      "path": "select/05_イケナイ太陽_~Short_Version~_ORANGE_RANGE.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "イケナイ太陽（カーニバル ～春の祭典スペシャル～）  (Live Version)",
+      "artist": "Orange Range",
+      "has_synced": false,
+      "path": "select/06_イケナイ太陽(カーニバル_~春の祭典スペシャル~)_(Live_Version)_Orange_Range.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "イケナイ太陽",
+      "artist": "ORANGE RANGE",
+      "has_synced": false,
+      "path": "select/pl_01_イケナイ太陽_ORANGE_RANGE.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "イケナイ太陽",
+      "artist": "ORANGE RANGE",
+      "has_synced": false,
+      "path": "select/pl_02_イケナイ太陽_ORANGE_RANGE.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "イケナイ太陽",
+      "artist": "ORANGE RANGE",
+      "has_synced": false,
+      "path": "select/pl_03_イケナイ太陽_ORANGE_RANGE.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "イケナイ太陽",
+      "artist": "ORANGE RANGE",
+      "has_synced": false,
+      "path": "select/pl_04_イケナイ太陽_ORANGE_RANGE.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "イケナイ太陽",
+      "artist": "ORANGE RANGE",
+      "has_synced": false,
+      "path": "select/pl_05_イケナイ太陽_ORANGE_RANGE.txt"
+    }
+  ]
+}
